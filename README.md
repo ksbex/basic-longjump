@@ -24,7 +24,7 @@ README.md		This file
 ## Emulation
 VirtualT, the Model 100 emulator can be downloaded from https://sourceforge.net/projects/virtualt .  The macOS and Windows binary files are the easiest to set up.  Compiling from source and/or using the linux binaries can be tricky due to variations in shared libraries on different distributions.  
 
-The timing of this game is geared toward running on physical hardware so be sure to set the emulation speed to 2.54MHz.
+The timing of this game is geared toward running on physical hardware so be sure to set the emulation speed to 2.4MHz.
 
 From the VirtualT file menu select "Load file from HD" and select JUMP.BA.  Select JUMP.BA from the menu to play.
 
